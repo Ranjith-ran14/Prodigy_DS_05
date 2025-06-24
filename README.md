@@ -11,4 +11,4 @@ this dataset is from: https://github.com/Ranjith-ran14/Prodigy_DS_05/blob/main/R
 ## Exploratory Data Analysis(EDA)
 1.Distribution of accidents by hour, day, and weather conditions 2.Accident heatmaps based on location and time 3.Identification of high-risk states and contributing environmental factors
 ## contact
-Ranjith C(LinkedIn) ranjith.chitrambalam@gmail.com
+Ranjith C(LinkedIn) ranjith.chitrambalam@gmail.com(via gmail)
